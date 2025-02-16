@@ -1,1 +1,0 @@
-# theory_of_parallelism
