@@ -1,9 +1,9 @@
 cd build
 
-**to compile with float:** 
-cd build
-cmake -DTYPE=float ..
-make
+**to compile with float:**  
+cd build  
+cmake -DTYPE=float ..  
+make  
 ./main
 
 **result:** 0.381143
