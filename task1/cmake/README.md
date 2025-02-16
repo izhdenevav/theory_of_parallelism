@@ -1,5 +1,3 @@
-cd build
-
 **to compile with float:**  
 cd build  
 cmake -DTYPE=float ..  
